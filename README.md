@@ -1,7 +1,7 @@
 # QuickOnlineOnlyExample
 
 ## A single repo might be easy to do online
-Just trying something out here. This is a README that was created when I created a new repo in Github.
+Leaving this repo as an example for people who might want to use Github to compose Markdown documents in the web interface instead of needing to be handy with git's CLI. This is a README that was created when I created a new repo in Github.
 
 ## Getting started
 To do a quick text/markdown/etc. repo in Github, just click the `+` icon in the top right and select `New repository`. Make sure to make it private if you don't want your repo to be discoverable publically.
